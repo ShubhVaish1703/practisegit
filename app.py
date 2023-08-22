@@ -1,5 +1,5 @@
-def addtion(a,b+e):
-    return a+b+e 
+def addtion(a,b,p):
+    return a+b+p 
 
 def subtract(a,b):
     return a-b
