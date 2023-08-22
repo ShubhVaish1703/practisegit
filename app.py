@@ -1,4 +1,4 @@
-def addtion(a,b+e):
+def addtion(a,b,e):
     return a+b+e 
 
 def subtract(a,b):
